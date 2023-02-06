@@ -1,13 +1,9 @@
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
-Hey!!
+Hey!!/n
 What's up?!
 
 Me chamo Jean Gabriel Rodrigues, estusiasta da tecnologia.
-Atualmente estudando os pilares do  front-end:\
-html <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt=""> 
+Atualmente estudando os pilares do  front-end:
+html <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" alt=""> 
 css <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt=""> 
 javascript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt=""> 
 Futurmanente pretendo me aprofundar em frameworks, como:
