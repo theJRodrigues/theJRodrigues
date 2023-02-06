@@ -1,6 +1,5 @@
-Hey!!/n
+Hey!!
 What's up?!
-
 Me chamo Jean Gabriel Rodrigues, estusiasta da tecnologia.
 Atualmente estudando os pilares do  front-end:
 html <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" alt=""> 
