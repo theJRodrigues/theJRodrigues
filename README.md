@@ -1,11 +1,11 @@
-Hey!!
-What's up?!
-Me chamo Jean Gabriel Rodrigues, estusiasta da tecnologia.
-Atualmente estudando os pilares do  front-end:
-html <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" alt=""> 
-css <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt=""> 
-javascript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt=""> 
-Futurmanente pretendo me aprofundar em frameworks, como:
+Hey!!<br/>
+What's up?!<br/>
+Me chamo Jean Gabriel Rodrigues, estusiasta da tecnologia.<br/>
+Atualmente estudando os pilares do  front-end:<br/>
+html <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" alt=""> <br/>
+css <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt=""> <br/>
+javascript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt=""> <br/>
+Futurmanente pretendo me aprofundar em frameworks, como:<br/>
 react<img src vuejs e angular, também pretendo aprender outras linguagens, sendo elas Python e Java.
 
 <!--
